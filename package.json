@@ -1,0 +1,25 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "flashcard game using cloze cards",
+  "main": "BasicCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/99darwin/flashcard-generator.git"
+  },
+  "keywords": [
+    "flashcards"
+  ],
+  "author": "99darwin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/99darwin/flashcard-generator/issues"
+  },
+  "homepage": "https://github.com/99darwin/flashcard-generator#readme",
+  "dependencies": {
+    "inquirer": "^3.2.3"
+  }
+}
